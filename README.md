@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shubhansh  <br>💻 Full Stack Developer | MERN Stack Enthusiast  <br><br>- 🌱 I’m currently learning advanced backend development  <br>- 🔭 I’m working on real-world web applications  <br>- 💬 Ask me about Node.js, MongoDB, Express, and React  <br>- 📫 How to reach me: your-email@example.com  <br>- ⚡ Fun fact: I love turning ideas into code  <br><br>🚀 Tech Stack:<br>- Frontend: HTML, CSS, Bootstrap, React  <br>- Backend: Node.js, Express.js  <br>- Database: MongoDB  
+Hi 👋, I'm Shubhanshu  <br>💻 Full Stack Developer | MERN Stack Enthusiast  <br><br>- 🌱 I’m currently learning advanced backend development  <br>- 🔭 I’m working on real-world web applications  <br>- 💬 Ask me about Node.js, MongoDB, Express, and React  <br>- 📫 How to reach me: your-email@example.com  <br>- ⚡ Fun fact: I love turning ideas into code  <br><br>🚀 Tech Stack:<br>- Frontend: HTML, CSS, Bootstrap, React  <br>- Backend: Node.js, Express.js  <br>- Database: MongoDB  
 
 
 ## 🌐 Socials:
